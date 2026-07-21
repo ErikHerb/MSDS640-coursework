@@ -1,0 +1,11 @@
+# Data Science Capstone: Adult Census Income
+# Package versions from the reproducibility cell in the baseline notebook.
+# sqlite3 is part of the Python standard library, so it is not listed here.
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+scipy==1.17.1
+matplotlib
+seaborn
