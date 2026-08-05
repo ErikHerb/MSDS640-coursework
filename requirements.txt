@@ -1,0 +1,21 @@
+# Data Science Capstone: Adult Census Income
+# Erik Herb, MSDS640
+#
+# Versions come from the reproducibility cell at the end of the final notebook.
+# sqlite3, warnings, and sys are part of the Python standard library, so they
+# are not listed here.
+#
+# Install with:  pip install -r requirements.txt
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+xgboost==3.3.0
+scipy==1.17.1
+
+# Plotting. My notebooks do not print these two versions, so they are floors
+# rather than exact pins. Replace with == and your own versions if you want the
+# environment fully locked.
+matplotlib>=3.8
+seaborn>=0.13
